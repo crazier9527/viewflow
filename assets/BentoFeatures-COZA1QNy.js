@@ -1,4 +1,4 @@
-import{c as d,r as c,i as u,p as x,j as e,m as o}from"./index-BLYpHFES.js";import{u as h}from"./use-in-view-BqzUy13w.js";import{G as y,T as g}from"./tv-DbhK-XFH.js";/**
+import{c as d,r as c,i as u,p as x,j as e,m as o}from"./index-DQuLoIVE.js";import{u as h}from"./use-in-view-DIuvsfOu.js";import{G as y,T as g}from"./tv-eekKGDLB.js";/**
  * @license lucide-react v0.454.0 - ISC
  *
  * This source code is licensed under the ISC license.
@@ -39,4 +39,4 @@ import{c as d,r as c,i as u,p as x,j as e,m as o}from"./index-BLYpHFES.js";impor
               group-hover:shadow-lg group-hover:shadow-cyan-500/50
               transition-all duration-500
             `,children:e.jsx(a,{className:`${i?"w-10 h-10":"w-8 h-8"} text-cyan-400 stroke-[1.5]`})})}),e.jsxs("div",{className:"flex-1",children:[e.jsx("h3",{className:`${i?"text-3xl md:text-4xl":"text-2xl"} font-bold mb-3 text-white`,children:n.title}),e.jsx("p",{className:`${i?"text-lg":"text-base"} text-slate-300`,children:n.description})]}),e.jsx("div",{className:"absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-cyan-400/10 to-transparent rounded-full blur-3xl"}),e.jsx("div",{className:"absolute bottom-0 left-0 w-24 h-24 bg-gradient-to-tr from-blue-600/10 to-transparent rounded-full blur-2xl"})]}),e.jsx("div",{className:"absolute inset-0 opacity-0 group-hover:opacity-100 bg-gradient-to-br from-cyan-400/5 to-blue-600/5 blur-3xl -z-10 transition-opacity duration-500"})]})}export{z as BentoFeatures,z as default};
-//# sourceMappingURL=BentoFeatures-Cehs_HDD.js.map
+//# sourceMappingURL=BentoFeatures-COZA1QNy.js.map

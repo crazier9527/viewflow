@@ -1,4 +1,4 @@
-import{c as o,r as t,i as c,p as l,j as e,m as d}from"./index-BLYpHFES.js";/**
+import{c as o,r as t,i as c,p as l,j as e,m as d}from"./index-DQuLoIVE.js";/**
  * @license lucide-react v0.454.0 - ISC
  *
  * This source code is licensed under the ISC license.
@@ -7,4 +7,4 @@ import{c as o,r as t,i as c,p as l,j as e,m as d}from"./index-BLYpHFES.js";/**
             linear-gradient(to right, #00ccff11 1px, transparent 1px),
             linear-gradient(to bottom, #00ccff11 1px, transparent 1px)
           `,backgroundSize:"60px 60px"}}),e.jsxs("div",{className:"container mx-auto px-6 relative z-10",children:[e.jsx("div",{className:"h-px bg-gradient-to-r from-transparent via-slate-700 to-transparent mb-8"}),e.jsxs(d.div,{initial:{opacity:0},whileInView:{opacity:1},viewport:{once:!0},transition:{duration:n},className:"flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-slate-400",children:[e.jsxs("div",{className:"flex items-center gap-2",children:[e.jsx("span",{children:"© 2025 ViewFlow."}),e.jsx("span",{children:"Made with"}),e.jsx(x,{className:"w-4 h-4 text-red-500 fill-red-500 animate-pulse"}),e.jsx("span",{children:"for TV enthusiasts"})]}),e.jsxs("div",{className:"flex gap-6",children:[e.jsx("a",{href:"#privacy",className:"hover:text-cyan-400 transition-colors",children:"Privacy Policy"}),e.jsx("a",{href:"#terms",className:"hover:text-cyan-400 transition-colors",children:"Terms of Service"})]})]})]}),e.jsx("div",{className:"absolute bottom-0 left-1/2 -translate-x-1/2 w-full h-px bg-gradient-to-r from-transparent via-cyan-500/50 to-transparent"})]})}export{m as ModernFooter,m as default};
-//# sourceMappingURL=ModernFooter-BVSs_C3F.js.map
+//# sourceMappingURL=ModernFooter-AcstA2s5.js.map
