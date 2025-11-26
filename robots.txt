@@ -1,0 +1,50 @@
+# robots.txt for ViewFlow Browser Website
+# https://www.viewflow.tv/robots.txt
+
+# Allow all search engines to crawl the entire site
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.viewflow.tv/sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+# Crawl-delay: 1
+
+# Block access to specific paths (if needed in the future)
+# Disallow: /admin/
+# Disallow: /private/
+# Disallow: /api/
+
+# Block access to specific file types (optional)
+# Disallow: /*.json$
+# Disallow: /*.xml$
+
+# Specific rules for common bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# Block bad bots (optional, uncomment if needed)
+# User-agent: AhrefsBot
+# Disallow: /
+
+# User-agent: SemrushBot
+# Disallow: /
+
+# User-agent: MJ12bot
+# Disallow: /
+
+# Additional metadata
+# Host: www.viewflow.tv

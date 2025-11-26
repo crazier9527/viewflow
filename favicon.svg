@@ -1,0 +1,24 @@
+<svg viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.000000" height="52.000000" fill="none">
+	<defs>
+		<linearGradient id="paint_linear_9" x1="-7.27450752" x2="34.8147049" y1="14.3531303" y2="38.5653801" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(77,188,214)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(54,90,204)" offset="0.5" stop-opacity="1" />
+			<stop stop-color="rgb(0,51,193)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="paint_linear_10" x1="27.637558" x2="51.9999924" y1="6.93318844" y2="6.93318844" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(77,188,214)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(54,90,204)" offset="0.5" stop-opacity="1" />
+			<stop stop-color="rgb(0,51,193)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="paint_linear_11" x1="27.637558" x2="44.7175293" y1="24.3808517" y2="24.3808517" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(77,188,214)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(54,90,204)" offset="0.5" stop-opacity="1" />
+			<stop stop-color="rgb(0,51,193)" offset="1" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+	<g id="组合 3">
+		<path id="矢量 10" d="M25.6399 51.6406L0.302442 24.4128C0.107448 24.2011 0 23.9256 0 23.6341L0 1.98922C0 1.09467 1.07446 0.663373 1.67536 1.31032L27.2555 28.8017C27.4505 29.0133 27.558 29.2889 27.558 29.5804L27.558 50.8658C27.558 51.8882 26.3283 52.3873 25.6398 51.6446L25.6399 51.6406Z" fill="url(#paint_linear_9)" fill-rule="nonzero" />
+		<rect id="矩形 3" width="24.362440" height="11.800831" x="27.637558" y="1.030777" rx="5.900415" fill="url(#paint_linear_10)" />
+		<rect id="矩形 4" width="17.083948" height="11.800831" x="27.637558" y="18.478439" rx="5.900415" fill="url(#paint_linear_11)" />
+	</g>
+</svg>

@@ -1,0 +1,10 @@
+import{c as o,r as t,i as c,p as l,j as e,m as d}from"./index-BLYpHFES.js";/**
+ * @license lucide-react v0.454.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const x=o("Heart",[["path",{d:"M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z",key:"c3ymky"}]]);function m(){const[a,s]=t.useState(!1),[r,i]=t.useState(!1);t.useEffect(()=>{s(c()),i(l())},[]);const n=a||r?.3:.6;return e.jsxs("footer",{className:"relative pt-20 pb-10 overflow-hidden",children:[e.jsx("div",{className:"absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900 to-transparent"}),e.jsx("div",{className:"absolute inset-0 opacity-20",style:{backgroundImage:`
+            linear-gradient(to right, #00ccff11 1px, transparent 1px),
+            linear-gradient(to bottom, #00ccff11 1px, transparent 1px)
+          `,backgroundSize:"60px 60px"}}),e.jsxs("div",{className:"container mx-auto px-6 relative z-10",children:[e.jsx("div",{className:"h-px bg-gradient-to-r from-transparent via-slate-700 to-transparent mb-8"}),e.jsxs(d.div,{initial:{opacity:0},whileInView:{opacity:1},viewport:{once:!0},transition:{duration:n},className:"flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-slate-400",children:[e.jsxs("div",{className:"flex items-center gap-2",children:[e.jsx("span",{children:"© 2025 ViewFlow."}),e.jsx("span",{children:"Made with"}),e.jsx(x,{className:"w-4 h-4 text-red-500 fill-red-500 animate-pulse"}),e.jsx("span",{children:"for TV enthusiasts"})]}),e.jsxs("div",{className:"flex gap-6",children:[e.jsx("a",{href:"#privacy",className:"hover:text-cyan-400 transition-colors",children:"Privacy Policy"}),e.jsx("a",{href:"#terms",className:"hover:text-cyan-400 transition-colors",children:"Terms of Service"})]})]})]}),e.jsx("div",{className:"absolute bottom-0 left-1/2 -translate-x-1/2 w-full h-px bg-gradient-to-r from-transparent via-cyan-500/50 to-transparent"})]})}export{m as ModernFooter,m as default};
+//# sourceMappingURL=ModernFooter-BVSs_C3F.js.map
